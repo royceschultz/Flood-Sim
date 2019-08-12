@@ -15,7 +15,7 @@ def getImagesinFolder(folder):
         images.append(im)
     return images
 
-x = getImagesinFolder('testSaveFig')
+x = getImagesinFolder('PlotFrameImgs')
 print(len(x))
 
-imageio.mimsave('surface1.gif', x, duration = 0.1)
+imageio.mimsave('surface.gif', x, duration = 0.1)
