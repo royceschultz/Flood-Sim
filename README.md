@@ -14,4 +14,4 @@ This method resembles Euler's Method which is known to be only 1st order accurat
 
 The simulation initializes the simulation with 1/2 inch of rain, evenly distributed over the map. This is a torrential downpour on Mount Cosine. After all, the mountain is only 2 inches tall (from -1 to 1). The water flows off the peaks into the 4 surrounding lakes: Lake Euler, Lake Gauss, Lake Cantor, and Lake Riemann.
 
-![Mount Cosine Gif](/Present/MountCosineR.gif)
+![Mount Cosine Gif](/Present/MountCosine.gif)
